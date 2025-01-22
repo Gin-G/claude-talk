@@ -1,0 +1,13 @@
+# Create a simple Flask app
+
+Please create a very simple flask application that launches an HTML page that just displays hello from Claude. If you can include some CSS that sets the background color to orange and uses arial bold size 25 font as the default that would be great.
+
+# Create a container file for the app
+
+Can you please create a container file for the app and provide instructions on how to build it with docker?
+
+# I got an ImportError on the docker run command
+
+I hit an error, `    from werkzeug.urls import url_quote
+ImportError: cannot import name 'url_quote' from 'werkzeug.urls' (/usr/local/lib/python3.9/site-packages/werkzeug/urls.py)`
+What do I need to do in order to fix this?
