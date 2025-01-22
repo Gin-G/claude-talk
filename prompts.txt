@@ -4,4 +4,4 @@ Please create a very simple flask application that launches an HTML page that ju
 
 # Create a container file for the app
 
-Can you please create a container file for the app and provide instructions on how to build it with docker?
+@workspace Can you please create a container file for the app and provide instructions on how to build it with docker?
